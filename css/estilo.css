@@ -1,0 +1,27 @@
+.navegador{
+    text-align: right;
+    background-color: #80808096;
+    margin-top: 30px;
+    margin-bottom: 10px ;
+    padding-top: 20px;
+    padding-bottom: 5px;
+    padding-right: 5px;
+ 
+}
+
+.links{
+    text-decoration: none;
+    color: aliceblue;
+    
+}
+
+.seccion{    
+    padding-left: 30%;
+    padding-right: 30%;
+    
+}
+
+footer{
+    background-color:  #80808096;
+    text-align: center;
+}
